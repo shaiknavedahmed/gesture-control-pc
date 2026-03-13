@@ -70,7 +70,7 @@ A **Python script using the pyautogui library** interprets these commands and pe
 ---
 
 ## Repository Structure
-'''
+```
 gesture-control-pc
 │
 ├── arduino
@@ -87,7 +87,7 @@ gesture-control-pc
 │ └── GESTURE_CONTROL_REPORT.pdf
 │
 └── README.md
-'''
+```
 ---
 
 ## Applications
